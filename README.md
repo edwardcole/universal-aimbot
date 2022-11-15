@@ -5,4 +5,4 @@ uses drawing api and smooth lerp (synapse x recommended)
 ```loadstring(game:GetService("HttpService"):HttpGet("https://raw.githubusercontent.com/edwardcole/universal-aimbot/main/main.lua"),false)()```
 
 ## Source
-You can find all of the code [here](https://github.com/edwardcole/universal-aimbot/blob/main/main.lua)
+[Main Aimbot](https://github.com/edwardcole/universal-aimbot/blob/main/main.lua) [GUI](#)
